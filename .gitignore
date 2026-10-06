@@ -24,7 +24,3 @@ npm-debug.log*
 .env
 .env.local
 .env.*.local
-
-# Large media files (videos)
-public/properties/*.mp4
-public/properties/*.webm
